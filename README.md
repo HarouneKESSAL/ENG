@@ -1,10 +1,10 @@
-# Guide d'installation de la plateforme d'ingénierie
+# Guide d'installation de la plateforme d'ENG
 
-Ce fichier README fournit des instructions sur la façon d'installer et de configurer la plateforme d'ingénierie sur votre machine locale. La plateforme d'ingénierie est construite à l'aide du framework Laravel et est conçue pour aider les ingénieurs dans leurs tâches quotidiennes. Suivez les étapes ci-dessous pour commencer.
+Ce fichier README fournit des instructions sur la façon d'installer et de configurer la plateforme d'ENG sur votre machine locale. La plateforme d'ENG est construite à l'aide du framework Laravel et est conçue pour aider les ingénieurs dans leurs tâches quotidiennes. Suivez les étapes ci-dessous pour commencer.
 
 ## Prérequis
 
-Avant d'installer la plateforme d'ingénierie, assurez-vous d'avoir installé les logiciels suivants sur votre système :
+Avant d'installer la plateforme d'ENG vous d'avoir installé les logiciels suivants sur votre système :
 
 - PHP (7.4 ou version ultérieure)
 - Composer
